@@ -1,7 +1,7 @@
 # MARKDOWN
 Working With Markdown Syntax
 
-## To italise
+## To italicize 
 
 surround words with underscore  _this_
 
