@@ -1,0 +1,15 @@
+#  Working With Markdown Syntax
+
+## To italize
+
+surround the word with underscore _this_
+
+### To make word bold
+
+surround word with two asterisks **THIS**
+
+To create an inline link, you wrap the link text in brackets [] and then you wrap the link in parenthesis () [visit Joseph](www.Joseph.com)
+
+#### To make a block quote start with '>'
+
+> I will be there
